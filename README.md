@@ -24,10 +24,10 @@ This project uses real-time facial emotion detection to recommend music that mat
 ---
 
 ## 📁 Project Files
-   ├── emotion detection.ipynb # Jupyter notebook with the full system
-   ├── My_model.h5 # Trained deep learning model for emotion classification
-   ├── haarcascade_frontalface_default.xml # Haar Cascade XML for face detection
-   └── README.md # Project documentation
+- ├── emotion detection.ipynb # Jupyter notebook with the full system
+- ├── My_model.h5 # Trained deep learning model for emotion classification
+- ├── haarcascade_frontalface_default.xml # Haar Cascade XML for face detection
+- └── README.md # Project documentation
 
 
 ---
